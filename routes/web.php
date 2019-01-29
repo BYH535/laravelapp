@@ -14,3 +14,5 @@
 Route::get('/', 'PagesController@welcome');
 Route::get('/hamza', 'PagesController@hamza');
 Route::get('/hamzaflos', 'PagesController@hamzaflos');
+
+Route::resource('posts','PostsController');
