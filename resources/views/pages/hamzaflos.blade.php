@@ -1,4 +1,4 @@
-@extends('layouts.venueowner')
+@extends('layouts.app')
 @section('content')
     <h1>
         Ana smiti si Hamza o 3andi flooooos

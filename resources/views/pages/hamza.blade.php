@@ -1,4 +1,4 @@
-@extends('layouts.venueowner')
+@extends('layouts.app')
 @section('content')
 <div class="text-center mb-5">
     <h1>
